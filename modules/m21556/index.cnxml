@@ -1,0 +1,531 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Environmental deficits in SA</title>
+  <metadata>
+  <md:content-id>m21556</md:content-id><md:title>Environmental deficits in SA</md:title>
+  <md:abstract/>
+  <md:uuid>4ca37428-4a99-464e-b9c8-d044da37fb74</md:uuid>
+</metadata>
+
+<content>
+    <section id="id16102649">
+      <title>Social Sciences</title>
+      <para id="para-id16102649">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16102656">
+      <title>GEOGRAPHY</title>
+      <para id="para-id16102656">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14725254">
+      <title>Grade 9</title>
+      <para id="para-id14725254">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16463579">
+      <title>Sustainable utilisation of resources</title>
+      <para id="para-id16463579">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16463588">
+      <title>Module 7</title>
+      <para id="para-id16463588">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16783853">
+      <title>ENVIRONMENTAL DEFICITS IN SOUTH AFRICA</title>
+      <para id="id16539452">1. Physical Geography</para>
+      <para id="id16539462">The South African ecosystem is characterised by low rainfall, water shortages and soil that is vulnerable to erosion. About 65% of the country has less than 500 mm of rain per year, the minimum required for rain-dependent crop-farming.</para>
+      <para id="id15102853">About 65% of the arable land in South Africa contains very little organic material (humus) and becomes impoverished quickly as a result of repeated usage.</para>
+      <para id="id16315683">The low rainfall and poor soil results in only 16% of the arable land being suitable for crop-farming. The rest of the land is used for grazing. Only about 16% of South Africa’s arable soil was situated in the ‘homelands’ of the past. This imbalance, combined with the low rainfall, led to extensive environmental deficits in the ‘homelands’.</para>
+      <para id="id16345570">
+        <emphasis effect="bold">2. </emphasis>
+        <emphasis effect="bold">Structural deficits during Apartheid</emphasis>
+      </para>
+      <para id="id16548452">The apartheid system formalised the unequal social distribution of environmental resources in South Africa. It led to serious structural deficits within the black communities. They not only had inadequate access to land; their monthly income from farming did not make it possible for them to invest in their land. This shortage of land was made worse by the fact that the quality of the soil was poor and needed extensive cultivation.</para>
+      <para id="id16463011">Table 1: Comparison of population densities in rural South Africa, 1991</para>
+      <table id="id16775238" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c65537">
+                <emphasis effect="bold">Population density (Hectare/person)…………………………………………………..</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry>
+                <emphasis effect="bold">South Africa</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">White areas</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Former homelands</emphasis>
+              </entry>
+              <entry>Natal</entry>
+              <entry namest="c7" nameend="c65537">KwaZulu</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"> Cultivated land and grazing</entry>
+              <entry>4,70</entry>
+              <entry>16,22</entry>
+              <entry>0,92</entry>
+              <entry>5,36</entry>
+              <entry namest="c7" nameend="c65537">0,68</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"> Cultivated land</entry>
+              <entry>0,75</entry>
+              <entry>2,54</entry>
+              <entry>0,16</entry>
+              <entry>1,10</entry>
+              <entry namest="c7" nameend="c65537">0,08</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id16339311">Table 2: Comparison of yield in crop farming, Natal and Kwazulu – 1983-1984</para>
+      <table id="id16295935" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">
+                <emphasis effect="bold">Crops…………………………………………………..</emphasis>
+                <emphasis effect="bold">Crops…………………………………………………..</emphasis>
+              </entry>
+              <entry namest="c3" nameend="c65537">Yield (tonne/hectare)</entry>
+            </row>
+            <row>
+              <entry>Natal</entry>
+              <entry namest="c2" nameend="c65535">KwaZulu</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"> Maize</entry>
+              <entry>2,088</entry>
+              <entry namest="c4" nameend="c65537">0,826</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"> Dry beans</entry>
+              <entry>1,011</entry>
+              <entry namest="c4" nameend="c65537">0,337</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"> Potatoes</entry>
+              <entry>24,015</entry>
+              <entry namest="c4" nameend="c65537">5,006</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"> Sugar cane……………………………………………….</entry>
+              <entry>53,814</entry>
+              <entry namest="c4" nameend="c65537">28,795</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id15215119">In the homelands the land was unequally divided and 20% of the farmers were in control of 80% of the production. Even in the Transkei (which is now a large proportion of the Eastern Cape Province) the shortage of land was a serious problem.</para>
+      <para id="id16449437">In urban areas, the black areas were situated in environments that were unusable for whites. They were overpopulated with too few houses and situated in areas downwind from industrial areas. The services and infrastructure were bad. The houses were built from waste material and were not proof against the elements especially water.</para>
+      <para id="id16329914">The structural deficit worsened the availability and the demand-driven deficits.</para>
+      <para id="id16329920">3. Demand-driven deficits</para>
+      <para id="id15685908">Of the estimated South African population of 42,6 million in 1995, 28 million lived in towns and cities while 15 million lived in urban areas. It was estimated that the black population of 32 million would have grown to 37 million and the white population would still be around 5 million by the year 2000.</para>
+      <para id="id15254409">This growth in the black population made the shortage of land even worse. During the apartheid era the population density in the homelands was 10 times higher than that in the white areas. The conditions in the homelands resulted from forced migration: it caused the population to grow from 4,5 million in 1960 to 11 million in 1980. The size of the homelands remained the same.</para>
+      <para id="id14705408">Besides the inward migration, the birth rate in the homelands was very high. It is ascribed by some to the defective educational system, health care, family planning and guaranteed sources of support. Gender discrimination also contributed to this situation. The birth rate from 1985 to 1990 was estimated as 5,12 per woman. Research has shown that women that were not employed and therefore did not earn a fixed salary had fewer decision-making rights in their families. This, </para>
+      <para id="id15146787">together with the value that children had as workers in regard to what had to be done in the homes – such as gatherers of firewood and taking care of animals – also led to a higher birth rate.</para>
+      <table id="id15146797" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Table 3: Population profile, KWAZULU-NATAL, 1992</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">……………………………………………………..</entry>
+              <entry namest="c3" nameend="c65537">
+                <emphasis effect="bold">Population…………….</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry>
+                <emphasis effect="bold">Thousands</emphasis>
+              </entry>
+              <entry namest="c4" nameend="c65537">
+                <emphasis effect="bold">% of total</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Urban</entry>
+              <entry>2,290</entry>
+              <entry namest="c4" nameend="c65537">24,7</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Towns</entry>
+              <entry>350</entry>
+              <entry namest="c4" nameend="c65537">3,8</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">
+                <emphasis effect="bold">Total urban settlement</emphasis>
+              </entry>
+              <entry>2,640</entry>
+              <entry namest="c4" nameend="c65537">28,5</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Informal urban</entry>
+              <entry>1,550</entry>
+              <entry namest="c4" nameend="c65537">16,7</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Informal towns/villages</entry>
+              <entry>470</entry>
+              <entry namest="c4" nameend="c65537">5,1</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Transitionary (rural/urban)</entry>
+              <entry>400</entry>
+              <entry namest="c4" nameend="c65537">4,3</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry/>
+              <entry namest="c4" nameend="c65537"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">
+                <emphasis effect="bold">Total urban informal</emphasis>
+              </entry>
+              <entry>2,420</entry>
+              <entry namest="c4" nameend="c65537">26,1</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">
+                <emphasis effect="bold">Total urban</emphasis>
+              </entry>
+              <entry>5,060</entry>
+              <entry namest="c4" nameend="c65537">54,6</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">
+                <emphasis effect="bold">Total rural</emphasis>
+              </entry>
+              <entry>4,210</entry>
+              <entry namest="c4" nameend="c65537">45,4</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry/>
+              <entry namest="c4" nameend="c65537"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">
+                <emphasis effect="bold">Grand total</emphasis>
+              </entry>
+              <entry>9,270</entry>
+              <entry namest="c4" nameend="c65537">100,0</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id15032823">
+        <emphasis effect="bold">4. </emphasis>
+        <emphasis effect="bold">Availability-driven deficits</emphasis>
+      </para>
+      <para id="id12999717">The apartheid government placed the homelands in fragile environments with poor topsoil. This environment couldn’t carry the agricultural production that was needed by the people. This resulted in serious soil erosion. The per capita food production fell drastically and food had to be imported without anything being exported. Research shows that the South African loss of topsoil was 20 times higher than the world average. Experts estimate that, since 1900, South Africa has lost 25% of its topsoil and that 55% of the country is threatened by the growth of desert areas. This has happened at a time when South Africa’s need for food is a central concern and is expected to double by the year 2020.</para>
+      <para id="id16498929">Deforestation is an important type of availability-driven environmental deficit. The destabilisation of soil and changing local water cycles disrupt the ecological balance. Unfortunately for many black South Africans in rural areas firewood is the </para>
+      <para id="id12704152">most available and cheapest of all sources of energy. This leads to deforestation. In the past 50 years, 200 forests in KwaZulu have vanished.</para>
+      <para id="id12704160">Another problem is the shortage and degradation of water. South Africa is a country with serious water shortages: 12 to 16 million people haven’t any access to water that is suitable for putting into a can. About 70% of Black people in urban areas have no access to running water and have to rely on polluted river systems for their daily needs. About 21 million people need adequate sanitation. Industrial pollution threatens the quality of river and underground water. Die health of the South African society generally is threatened.</para>
+      <para id="id16366696">Activity 1:</para>
+      <para id="id16366702">To identify the different environmental deficits in the RSA</para>
+      <para id="id15060489">[LO 1.5]</para>
+      <para id="id15060495">1. Physical Geography</para>
+      <para id="id14794492">The South African ecosystem is fragile and we all need to contribute to its maintenance. Give reasons for the fragility of the South African ecosystem. How would you define “fragile”? How would you be able to contribute to the sustainability of the ecosystem (so that it remains intact and is not negatively affected)? Do this in table form, as follows:</para>
+      <table id="id16153677" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Reasons for the fragility of our ecosystem</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">What you could do to make our ecosystem more sustainable</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id16409472">
+        <emphasis effect="bold">2. </emphasis>
+        <emphasis effect="bold">Structural deficits</emphasis>
+      </para>
+      <para id="id16749932">a) Give FIVE reasons why it was impossible for black people in the homelands to make a success of farming. (Remember that “structural deficits” are related to weak places in the system.)</para>
+      <para id="id14849563">
+        <emphasis effect="bold">3. </emphasis>
+        <emphasis effect="bold">Demand-driven deficits</emphasis>
+        <emphasis effect="bold">:</emphasis>
+      </para>
+      <para id="id14876053">a) Explain in your own words what “demand-driven deficits” mean.</para>
+      <para id="id16451518">b) Draw two conclusions from each of Tables 4 and 5.</para>
+      <para id="id11991942">
+        <emphasis effect="bold">4. </emphasis>
+        <emphasis effect="bold">Availability-driven deficits:</emphasis>
+      </para>
+      <para id="id11991952">a) Explain what “availability-driven deficits” signify.</para>
+      <para id="id14865697">b) How does deforestation contribute to availability-driven shortages?</para>
+      <para id="id16087848">
+        <emphasis effect="bold">5. </emphasis>
+        <emphasis effect="bold">Draw up a summary of the reasons why urbanisation took place so rapidly in recent times in South Africa.</emphasis>
+      </para>
+      <section id="id16684915">
+        <title>Activity 2:</title>
+        <para id="para-id16684915">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id16684922">
+        <title>To answer questions about environmental pollution</title>
+        <para id="para-id16684922">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id16101453">
+        <title>[LO 2.2]</title>
+        <para id="id16101459">
+          <emphasis effect="bold">With a partner:</emphasis>
+        </para>
+        <para id="id16762041">Study the following table and then answer the questions that follow:</para>
+        <table id="id16762048" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Problem</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Impact</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Area</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Soil compaction</entry>
+                <entry>2 million hectare</entry>
+                <entry>Highveld – maize</entry>
+              </row>
+              <row>
+                <entry>Salinisation</entry>
+                <entry>1,2 million hectare</entry>
+                <entry>Irrigated soil</entry>
+              </row>
+              <row>
+                <entry>Pollution</entry>
+                <entry>31 000 hectare</entry>
+                <entry>Industrial / Domestic</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id14986279">1. Which of the problems in the above table affect the largest area?</para>
+        <para id="id14986288">2. Where does the problem of salinisation occur most generally?</para>
+        <para id="id16042052">3. What are we able to do in our homes to minimise or prevent the effects of pollution on agricultural land?</para>
+      </section>
+    </section>
+    <section id="id15961386">
+      <title>Assessment</title>
+      <para id="id15961391">
+        <emphasis effect="bold">Learning outcomes(LO)</emphasis>
+      </para>
+      <para id="id16072760">
+        <emphasis effect="bold">LO 1</emphasis>
+      </para>
+      <para id="id16415910"><emphasis effect="bold">GEOGRAPHICAL RESEARCH</emphasis>The learner can apply research skills to study geographical and environmental concepts and processes.</para>
+      <para id="id16415920">
+        <emphasis effect="bold">Assessment standards(AS)</emphasis>
+      </para>
+      <para id="id15035954">
+        <emphasis effect="italics">This is clear when the learner:</emphasis>
+      </para>
+      <para id="id15035960">1.3 analyses and makes inferences from sources such as photo’s, maps, atlases, graphs and statistics [working with sources];</para>
+      <para id="id15104938">1.5 recognises information in the field and records it [working with sources].</para>
+      <para id="id15115300">
+        <emphasis effect="bold">LO 2</emphasis>
+      </para>
+      <para id="id15115305"><emphasis effect="bold">GEOGRAPHICAL KNOWLEDGE AND UNDERSTANDING</emphasis>The learner can demonstrate geographical and environmental knowledge and understanding.</para>
+      <para id="id14882953">
+        <emphasis effect="italics">This is clear when the learner:</emphasis>
+      </para>
+      <para id="id14882959">2.2 identifies ways in which Science and Technology have a positive and a negative influence on development [people and resources].</para>
+    </section>
+    <section id="id16641962">
+      <title>Memorandum</title>
+      <para id="id16641967">ACTIVITY1:</para>
+      <para id="id16680021">a) Low rainfall: Plant crops that adapt to rainfall figures </para>
+      <list id="id16743472" list-type="bulleted">
+        <item>Water shortage: Build catchment dams and water restrictions</item>
+        <item>High population growth: Education</item>
+        <item>Deforestation as a result of </item>
+      </list>
+      <para id="id16088087">Development: Plant natural forests</para>
+      <list id="id15954248" list-type="bulleted">
+        <item>Subsistence farmers - causes </item>
+      </list>
+      <para id="id16299499">erosion: Scientific farming methods</para>
+      <para id="id16317381"/>
+      <para id="id16317387">2. a) - Not sufficient access to fertile soil</para>
+      <list id="id15955311" list-type="bulleted">
+        <item>Soil of inferior quality</item>
+        <item>Not sufficient funds to purchase seed, implements and fertiliser</item>
+        <item>Traditional farming</item>
+        <item>No market for produce</item>
+      </list>
+      <para id="id16654661">3. a) Shortages that occur as a result of population growth. An expanding population demands more land, more food, etc. A larger demand for basic resources arises due to a growing population.</para>
+      <para id="id16341662">b) <emphasis effect="bold">TABLE 4: </emphasis></para>
+      <para id="id16341672">1) Urban areas grow more rapidly (3%) than rural areas in KwaZulu-Natal.</para>
+      <para id="id16646836">2) Informal settlements grow more rapidly (4%) than rural settlements in KwaZulu-Natal.</para>
+      <para id="id15940950">
+        <emphasis effect="bold">TABLE 5: </emphasis>
+      </para>
+      <para id="id15940956">1) Approximately half of the urban dwellers in KwaZulu-Natal live in informal settlements.</para>
+      <para id="id16620295">Urban settlements accommodate most people (54,6%) in KwaZulu-Natal. </para>
+      <para id="id16620303">4. a) Shortages that arise as a result of the over-utilisation of particular resources precisely because these resources are available.</para>
+      <para id="id16356520"><emphasis effect="bold">EXAMPLES:  </emphasis>- Trees are felled for firewood.</para>
+      <para id="id16606414"> - Useful water resources are over utilised.</para>
+      <para id="id16750846">b) It disrupts the ecological balance. It reduces the number of forests and as a result the number of trees. It contributes to the fact that the soil no longer is kept stable (compacted) by their root systems. The top soil therefore is very vulnerable, especially to water and wind erosion.</para>
+      <para id="id16318258">5. <emphasis effect="bold">CONSIDER THE FOLLOWING:</emphasis></para>
+      <para id="id16510601"><emphasis effect="bold">Push factors</emphasis>: Poor and insufficient housing</para>
+      <para id="id16775158">Lack of basic services, such as: medical, educational services, etc. in rural areas</para>
+      <para id="id16775165">Few job opportunities</para>
+      <para id="id15850742">Physical problems such as: poor soil, low rainfall, consolidation of farms, farm murders, etc. </para>
+      <para id="id15850750">Poor wages</para>
+      <para id="id15114492">Uneconomical units</para>
+      <para id="id15114498"><emphasis effect="bold">Pull factors:</emphasis> More and better housing</para>
+      <para id="id15189911">More job opportunities</para>
+      <para id="id15189916">Higher wages </para>
+      <para id="id16770451">Better and more basic services</para>
+      <para id="id16770457">Availability of high order services – supply examples</para>
+      <para id="id16046161">Means of communication, etc.</para>
+      <para id="id16046166">ACTIVITY1:</para>
+      <para id="id16080769">a) Low rainfall: Plant crops that adapt to rainfall figures </para>
+      <list id="id16080779" list-type="bulleted">
+        <item/>
+        <item>Water shortage: Build catchment dams and water restrictions</item>
+        <item>High population growth: Education</item>
+        <item>Deforestation as a result of </item>
+      </list>
+      <para id="id16520291">Development: Plant natural forests</para>
+      <list id="id16393478" list-type="bulleted">
+        <item>Subsistence farmers - causes Scientific farming methods</item>
+      </list>
+      <para id="id16660631">Erosion: </para>
+      <para id="id16660640">2. a) - Not sufficient access to fertile soil</para>
+      <list id="id12688502" list-type="bulleted">
+        <item>Soil of inferior quality</item>
+        <item>Not sufficient funds to purchase seed, implements and fertiliser</item>
+        <item>Traditional farming</item>
+        <item>No market for produce</item>
+      </list>
+      <para id="id16079884">3. a) Shortages that occur as a result of population growth. An expanding population demands more land, more food, etc. A larger demand for basic resources arises due to a growing population.</para>
+      <para id="id11827314">b) <emphasis effect="bold">TABLE 4: </emphasis></para>
+      <para id="id11827325">1) Urban areas grow more rapidly (3%) than rural areas in KwaZulu-Natal.</para>
+      <para id="id16662934">2) Informal settlements grow more rapidly (4%) than rural settlements in KwaZulu-Natal.</para>
+      <para id="id16493772">
+        <emphasis effect="bold">TABLE 5: </emphasis>
+      </para>
+      <para id="id16493778">1) Approximately half of the urban dwellers in KwaZulu-Natal live in informal settlements.</para>
+      <para id="id13148901">Urban settlements accommodate most people (54,6%) in KwaZulu-Natal. </para>
+      <para id="id13148909">4. a) Shortages that arise as a result of the over-utilisation of particular resources precisely because these resources are available.</para>
+      <para id="id16685274"><emphasis effect="bold">EXAMPLES:  </emphasis>- Trees are felled for firewood.</para>
+      <para id="id14745286"> - Useful water resources are over utilised.</para>
+      <para id="id16290366">b) It disrupts the ecological balance. It reduces the number of forests and as a result the number of trees. It contributes to the fact that the soil no longer is kept stable (compacted) by their root systems. The top soil therefore is very vulnerable, especially to water and wind erosion.</para>
+      <para id="id12981567">5. <emphasis effect="bold">CONSIDER THE FOLLOWING:</emphasis></para>
+      <para id="id16748594"><emphasis effect="bold">Push factors</emphasis>: Poor and insufficient housing</para>
+      <para id="id16748605">Lack of basic services, such as: medical, educational services, etc. in rural areas</para>
+      <para id="id13014039">Few job opportunities</para>
+      <para id="id13014044">Physical problems such as: poor soil, low rainfall, consolidation of farms, farm murders, etc. </para>
+      <para id="id15316891">Poor wages</para>
+      <para id="id15316897">Uneconomical units</para>
+      <para id="id16412594"><emphasis effect="bold">Pull factors:</emphasis> More and better housing</para>
+      <para id="id14629870">More job opportunities</para>
+      <para id="id14629876">Higher wages </para>
+      <para id="id16150463">Better and more basic services</para>
+      <para id="id16150469">Availability of high order services – supply examples</para>
+      <para id="id16677200">Means of communication, etc.</para>
+      <para id="id16677206">ACTIVITY 2:</para>
+      <list id="id16677209" list-type="enumerated" number-style="arabic">
+        <item>Land densification</item>
+        <item>In irrigation areas (soil-)</item>
+        <item>– Do not scatter garbage</item>
+        <item>– Do not dump household or other refuse in rivers or water resources</item>
+      </list>
+      <para id="id16400134">– Recycling refuse</para>
+      <para id="id15955002"/>
+      <para id="id15955005"> ACTIVITY 3.1:</para>
+      <para id="id15955010"><emphasis effect="bold">ALL</emphasis>: Special dumping site</para>
+      <para id="id16073473">ACTIVITY 2:</para>
+      <list id="id16796243" list-type="enumerated" number-style="arabic">
+        <item>Land densification</item>
+        <item>In irrigation areas (soil-)</item>
+        <item>– Do not scatter garbage</item>
+        <item>– Do not dump household or other refuse in rivers or water resources</item>
+      </list>
+      <para id="id16391977">– Recycling refuse</para>
+    </section>
+  </content>
+</document>
